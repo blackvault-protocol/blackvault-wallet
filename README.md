@@ -1,17 +1,29 @@
-# blackvault_wallet
+# BlackVault Wallet v0.1.0 — LIVE RIGHT NOW
 
-A new Flutter project.
+https://blackvault-wallet.netlify.app
 
-## Getting Started
+Open in any browser. No install. Works today.
 
-This project is a starting point for a Flutter application.
+- Variable USD amounts  
+- Scan Note or Paste Note  
+- Perfect $ formatting  
+- 100 % non-custodial
 
-A few resources to get you started if this is your first Flutter project:
+Mint a note:
+```bash
+cargo run --release -- --amount 133700
+```
+```bash
+You own $1,337.00 shielded.
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="1194" height="944" alt="Screenshot 2025-11-24 at 2 29 13 PM" src="https://github.com/user-attachments/assets/36c6b2d4-3bf7-4391-8040-88fc41aaa6ec" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1198" height="952" alt="Screenshot 2025-11-24 at 1 57 43 PM" src="https://github.com/user-attachments/assets/5ec713d6-c94b-4f3e-963b-eca10604f4f5" />
+
+---
+***Android & iOS native builds coming soon.***
+
+Web version is production-ready today.
+
+Welcome to private money that actually works.
