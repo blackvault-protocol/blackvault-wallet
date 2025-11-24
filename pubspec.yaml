@@ -1,0 +1,22 @@
+name: blackvault_wallet
+description: Confidential value. Open-world mobility.
+publish_to: "none"
+version: 0.1.0
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^5.2.1
+  flutter_secure_storage: ^9.2.2
+  qr_flutter: ^4.1.0
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
